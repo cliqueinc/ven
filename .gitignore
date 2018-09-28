@@ -1,0 +1,6 @@
+examples/*/vendor
+examples/*/Manifest.yml
+*debug.test
+debug.test
+.idea
+ven
